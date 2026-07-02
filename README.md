@@ -1,2 +1,2 @@
 # stringpulling_analysis
-Behaviour and photometry analysis for string pulling
+DLC Behaviour and fiber photometry analysis for string pulling task
